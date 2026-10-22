@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm André 👋
 
-<!--
-**decoarc/decoarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Software Engineering**
 
-Here are some ideas to get you started:
+I'm a software developer based in Brazil, focused on building reliable web applications, APIs, integrations, and automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional experience includes developing and maintaining features, fixing bugs, integrating external services, working with relational databases, and delivering solutions across the development lifecycle.
+
+I'm also interested in software architecture, graphics programming, developer tools, and local AI applications.
+
+## Tech Stack
+
+**Languages:** PHP, JavaScript, TypeScript, SQL
+
+**Frontend:** React, HTML, CSS
+
+**Backend & Data:** REST APIs, MySQL, data processing and integrations
+
+**Tools:** Git, Docker
+
+## Featured Projects
+
+I'm currently organizing and documenting my projects to make their architecture, implementation, and technical decisions easier to explore.
+
+More projects and demonstrations coming soon.
+
+## Currently Exploring
+
+- Full Stack application architecture
+- Modern frontend engineering and UX
+- Desktop applications and graphics programming
+- Local AI and developer tools
+
+## Connect
+
+- [GitHub](https://github.com/decoarc)
+- LinkedIn: Coming soon
+- Portfolio: In development
+
+---
+
+*Interested in Full Stack and Software Engineering opportunities.*
