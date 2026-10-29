@@ -1,42 +1,33 @@
-# Hi, I'm André 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="André Arcodaci, Full Stack Developer" src="assets/banner-light.svg" width="100%">
+</picture>
 
-**Full Stack Developer | Software Engineering**
+<br>
 
-I'm a software developer based in Brazil, focused on building reliable web applications, APIs, integrations, and automation tools.
-
-My professional experience includes developing and maintaining features, fixing bugs, integrating external services, working with relational databases, and delivering solutions across the development lifecycle.
+I'm a software developer based in Brazil, focused on building reliable web applications, APIs, integrations, and automation tools. My professional experience includes developing and maintaining features, fixing bugs, integrating external services, and working with relational databases across the development lifecycle.
 
 I'm also interested in software architecture, graphics programming, developer tools, and local AI applications.
 
-## Tech Stack
+## 01 · Tech Stack
 
-**Languages:** PHP, JavaScript, TypeScript, SQL
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="Tech stack: PHP, JavaScript, TypeScript, SQL; React, HTML, CSS; REST APIs, MySQL, data processing and integrations; Git, Docker." src="assets/stack-light.svg" width="100%">
+</picture>
 
-**Frontend:** React, HTML, CSS
-
-**Backend & Data:** REST APIs, MySQL, data processing and integrations
-
-**Tools:** Git, Docker
-
-## Featured Projects
-
-I'm currently organizing and documenting my projects to make their architecture, implementation, and technical decisions easier to explore.
-
-More projects and demonstrations coming soon.
-
-## Currently Exploring
+## 02 · Currently Exploring
 
 - Full Stack application architecture
 - Modern frontend engineering and UX
 - Desktop applications and graphics programming
 - Local AI and developer tools
 
-## Connect
+## 03 · Connect
 
-- [GitHub](https://github.com/decoarc)
-- LinkedIn: Coming soon
-- Portfolio: In development
-
----
-
-*Interested in Full Stack and Software Engineering opportunities.*
+- Portfolio: [andrearcodaci.com](https://andrearcodaci.com/)
+- GitHub: [decoarc](https://github.com/decoarc)
+- LinkedIn: [andrearcodaci](https://www.linkedin.com/in/andrearcodaci/)
+- Email: [andre.arcodaci@gmail.com](mailto:andre.arcodaci@gmail.com)

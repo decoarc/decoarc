@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="André Arcodaci, Full Stack Developer">
+  <rect width="1000" height="320" fill="#e8dcc0"/>
+  <text x="60" y="70" font-family="Courier New, monospace" font-size="15" letter-spacing="3" fill="#5a534a">BASED IN BRAZIL · REMOTE</text>
+  <text x="60" y="170" font-family="Georgia, serif" font-size="96" fill="#16130f">Hi, I'm <tspan fill="#a32114">André.</tspan></text>
+  <text x="60" y="225" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5a534a">Full Stack Developer · Software Engineering</text>
+  <line x1="60" y1="270" x2="940" y2="270" stroke="#a89771" stroke-width="1"/>
+  <text x="60" y="300" font-family="Courier New, monospace" font-size="14" letter-spacing="3" fill="#5a534a">ANDRE ARCODACI</text>
+  <text x="940" y="300" text-anchor="end" font-family="Courier New, monospace" font-size="14" letter-spacing="3" fill="#5a534a">ANDRECODACI.COM</text>
+</svg>
