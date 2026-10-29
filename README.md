@@ -14,20 +14,6 @@ I'm a software developer based in Brazil, focused on building reliable web appli
 
 ## 01 · Selected Work
 
-### PReview · AI code review agent
-
-Reviews pull requests on GitHub and Azure DevOps. A webhook fetches the diff, an LLM analyzes it, and the findings that survive validation are posted as inline comments on the changed lines.
-
-`TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Drizzle ORM` · `Gemini API` · `React` · `Render`
-
-[Live dashboard](https://preview-ou94.onrender.com) · [Repository](https://github.com/decoarc/preview)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/rule-light.svg">
-  <img alt="" src="assets/rule-light.svg" width="100%">
-</picture>
-
 ### geo-areas-php · Interactive area map
 
 Draw polygons on a Leaflet map, save them to PostgreSQL with PostGIS, and view them again. Area (km²) and perimeter (km) are calculated with PostGIS geography functions.
@@ -61,9 +47,9 @@ A Windows desktop app that opens Outlook Express profiles (`.dbx` files) to read
 | Area | Technologies |
 | :--- | :--- |
 | **Frontend** | React · TypeScript · JavaScript · HTML · CSS · Leaflet · WPF (XAML) |
-| **Backend** | Node.js · Fastify · PHP 8 · C# / .NET 9 · REST APIs · Webhooks · Gemini API |
-| **Data** | PostgreSQL · PostGIS · Drizzle ORM · MySQL · SQL |
-| **Tools & Delivery** | Git · GitHub Actions · Docker · Docker Compose · Render · Vitest · Biome |
+| **Backend** | PHP 8 · C# / .NET 9 · REST APIs |
+| **Data** | PostgreSQL · PostGIS · MySQL · SQL |
+| **Tools & Delivery** | Git · Docker · Docker Compose · Composer |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
