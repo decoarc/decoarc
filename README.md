@@ -45,11 +45,3 @@
     <img alt="LinkedIn: andrearcodaci" src="assets/connect-3-light.svg" width="100%">
   </picture>
 </a>
-
-<a href="mailto:andre.arcodaci@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/connect-4-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/connect-4-light.svg">
-    <img alt="Email: andre.arcodaci@gmail.com" src="assets/connect-4-light.svg" width="100%">
-  </picture>
-</a>
